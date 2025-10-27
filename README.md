@@ -15,3 +15,4 @@ git commit -m "Initial commit: agregar README"
 # Conectar con GitHub/GitLab
 git remote add origin https://github.com/tu-usuario/tu-repo.git
 git push -u origin main
+git clone https://github.com/KevinCG2005/control-versiones-colaborativo.git
